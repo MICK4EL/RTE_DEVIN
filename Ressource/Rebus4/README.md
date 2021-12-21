@@ -3,6 +3,6 @@
 
 - [Atole](./Atole)
 - [Centrale](./Centrale)
-- Pépin](./Pepin)
+- [Pépin](./Pepin)
 
 [Retournez au début.](https://github.com/DevinRte/Enigme/tree/main)
