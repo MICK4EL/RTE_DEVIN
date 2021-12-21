@@ -1,5 +1,5 @@
-- [Abbé Pierre](./Abbé Pierre)
-- [Nicolas Tesla](./Nicolas Tesla)
-- [Thomas Edison](./Thomas Edison)
+- [Abbé Pierre](./AbbePierre)
+- [Nicolas Tesla](./NicolasTesla)
+- [Thomas Edison](./ThomasEdison)
 
 [Retournez au début.](https://github.com/MICK4EL/RTE_DEVIN/tree/main/Depart)
